@@ -4,4 +4,4 @@
 
 ![Linguagem C Raspberry](https://uploads.filipeflop.com/2019/02/Destaque.png)
 
-### Acesse o tutorial no <span style="color:blue"></span>[Blog da FILIPEFLOP](https://www.makerhero.com/blog/) para mais informações sobre este projeto.
+### Acesse o tutorial no <span style="color:blue"></span>[Blog da MakerHero](https://www.makerhero.com/blog/) para mais informações sobre este projeto.
